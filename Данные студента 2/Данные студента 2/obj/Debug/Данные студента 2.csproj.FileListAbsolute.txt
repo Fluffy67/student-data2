@@ -1,0 +1,26 @@
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.csproj.AssemblyReference.cache
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.csproj.SuggestedBindingRedirects.cache
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.entrance.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.registration.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.samples.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.groups.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.faculty.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.students.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.Properties.Resources.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные_студента_2.Zaprosi.resources
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.csproj.GenerateResource.cache
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.csproj.CoreCompileInputs.cache
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\Данные студента 2.exe.config
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\Данные студента 2.exe
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\Данные студента 2.pdb
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\EntityFramework.dll
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\EntityFramework.SqlServer.dll
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\System.Data.SQLite.dll
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\System.Data.SQLite.EF6.dll
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\System.Data.SQLite.Linq.dll
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\EntityFramework.xml
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\EntityFramework.SqlServer.xml
+F:\уп\Данные студента 2\Данные студента 2\bin\Debug\System.Data.SQLite.xml
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.csproj.CopyComplete
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.exe
+F:\уп\Данные студента 2\Данные студента 2\obj\Debug\Данные студента 2.pdb
